@@ -10,9 +10,7 @@ use integer;
 use Carp;
 use List::Util qw(all);
 
-use vars qw ($VERSION);
-
-$VERSION = '0.01';
+our $VERSION = '0.01';
 
 use Config;
 BEGIN {
