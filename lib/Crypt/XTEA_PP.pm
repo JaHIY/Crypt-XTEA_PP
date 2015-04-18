@@ -192,6 +192,8 @@ sub key_setup {
 
 L<Crypt::CBC>
 
+L<Crypt::XTEA>
+
 =cut
 
 1;
